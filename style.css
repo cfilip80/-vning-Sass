@@ -1,0 +1,12 @@
+body {
+  height: 1000px;
+  width: 1000px;
+  border: 2px solid black;
+}
+
+.school {
+  border: 1px solid red;
+  height: 90%;
+  width: 90%;
+  border-radius: 2px;
+}/*# sourceMappingURL=style.css.map */
